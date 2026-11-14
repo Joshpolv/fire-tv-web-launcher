@@ -1,4 +1,4 @@
-# Fire TV Web Launcher
+# Fire TV Web Launcher 
 
 An open-source custom launcher for Amazon Fire TV, Fire TV Stick, and Fire TV Edition TVs
 (Insignia, Toshiba). The home screen is a web page, so you can change it with HTML, CSS, and
